@@ -12,6 +12,8 @@ This project is a simple database management system for tech stocks, built using
 ## How to Run
 1. **Prerequisites**:
    - GCC installed on your system or use an online compiler.
+   - MinGW for GCC compiler on Windows (optional but recommended).
+   - Visual Studio Code with C/C++ extensions.
    - Basic understanding of C and command-line tools.
 
 2. **Clone the Repository**:
